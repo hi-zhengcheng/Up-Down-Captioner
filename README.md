@@ -1,3 +1,7 @@
+# Visualize Attention
+* This part is added by me to study attention model. You can extract the attention info from the model and see it on image. More details can be read [here](visualize_attention).
+* Thanks for the author of Up-Down-Captioner.
+
 # Up-Down-Captioner
 
 Simple yet high-performing image captioning model using Caffe and python. Using image features from [bottom-up attention](https://github.com/peteanderson80/bottom-up-attention), in July 2017 this model achieved state-of-the-art performance on all metrics of the [COCO captions test leaderboard](http://cocodataset.org/#captions-leaderboard) (**SPICE 21.5**, **CIDEr 117.9**, **BLEU_4 36.9**). The architecture (2-layer LSTM with attention) is described in Section 3.2 of:
